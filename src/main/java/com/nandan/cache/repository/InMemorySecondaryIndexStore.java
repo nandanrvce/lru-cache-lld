@@ -1,6 +1,6 @@
-package com.uditagarwal.cache.repository;
+package com.nandan.cache.repository;
 
-import com.uditagarwal.cache.model.AttributeValue;
+import com.nandan.cache.model.AttributeValue;
 
 import java.util.ArrayList;
 import java.util.List;

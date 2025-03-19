@@ -1,8 +1,4 @@
-package com.uditagarwal.cache.repository;
-
-import com.uditagarwal.cache.model.AttributeValue;
-
-import java.util.List;
+package com.nandan.cache.repository;
 
 public interface ICacheStore<Key, Value> {
     void store(Key key, Value value);

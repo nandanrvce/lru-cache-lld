@@ -1,4 +1,4 @@
-package com.uditagarwal.cache.model;
+package com.nandan.cache.model;
 
 import lombok.EqualsAndHashCode;
 

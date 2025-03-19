@@ -1,9 +1,9 @@
-package com.uditagarwal.cache.service;
+package com.nandan.cache.service;
 
-import com.uditagarwal.cache.model.AttributeValue;
-import com.uditagarwal.cache.repository.ICacheStore;
-import com.uditagarwal.cache.repository.ISecondaryIndexStore;
-import com.uditagarwal.cache.strategy.IValidator;
+import com.nandan.cache.repository.ICacheStore;
+import com.nandan.cache.repository.ISecondaryIndexStore;
+import com.nandan.cache.strategy.IValidator;
+import com.nandan.cache.model.AttributeValue;
 
 import java.util.List;
 

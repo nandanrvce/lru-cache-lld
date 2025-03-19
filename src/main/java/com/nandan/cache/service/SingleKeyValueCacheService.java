@@ -1,9 +1,6 @@
-package com.uditagarwal.cache.service;
+package com.nandan.cache.service;
 
-import com.uditagarwal.cache.model.AttributeValue;
-import com.uditagarwal.cache.repository.ICacheStore;
-
-import java.util.List;
+import com.nandan.cache.repository.ICacheStore;
 
 public class SingleKeyValueCacheService {
     private ICacheStore<String, String> cacheStore;
